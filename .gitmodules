@@ -1,0 +1,6 @@
+[submodule "Library-Backend"]
+	path = Library-Backend
+	url = https://github.com/VoxAntiqua/Library-Backend.git
+[submodule "library-frontend"]
+	path = library-frontend
+	url = https://github.com/VoxAntiqua/library-frontend.git
